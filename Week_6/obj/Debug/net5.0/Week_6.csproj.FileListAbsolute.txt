@@ -1,0 +1,16 @@
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\Week_6.exe
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\Week_6.deps.json
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\Week_6.runtimeconfig.json
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\Week_6.runtimeconfig.dev.json
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\Week_6.dll
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\ref\Week_6.dll
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\bin\Debug\net5.0\Week_6.pdb
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.csproj.AssemblyReference.cache
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.GeneratedMSBuildEditorConfig.editorconfig
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.AssemblyInfoInputs.cache
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.AssemblyInfo.cs
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.csproj.CoreCompileInputs.cache
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.dll
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\ref\Week_6.dll
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.pdb
+E:\11_10_2021\School\Game_sim_Prog\Repository-Week-6\Week_6\obj\Debug\net5.0\Week_6.genruntimeconfig.cache
